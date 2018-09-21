@@ -1,0 +1,5 @@
+okhttp:
+  poolSize: 10
+  connectTimeout: 10
+  readTimeout: 60
+  keepAliveDuration: 5
